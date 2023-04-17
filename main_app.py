@@ -1,6 +1,8 @@
-import mylib1
-import mylib2
+import lib1.f_lib
+import lib2
+from lib2 import h
 
 if __name__ == "__main__":
-    mylib1.f()
-    mylib2.g()
+    lib1.f_lib.f()
+    lib2.g()
+    h()

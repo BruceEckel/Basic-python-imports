@@ -1,2 +1,2 @@
 def g():
-    print("function g() in mylib2")
+    print("function g() in lib2")

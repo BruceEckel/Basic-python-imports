@@ -1,2 +1,2 @@
-from pkgutil import extend_path
-__path__ = extend_path(__path__, __name__)
+from lib2.g_lib import g
+from lib2.h_lib import h
