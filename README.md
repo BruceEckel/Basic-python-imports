@@ -1,2 +1,4 @@
-# Basic-python-structure-2
-Libraries in subdirectories
+# Basic Python Imports
+Importing a: 
+-  Module: A single file.
+-  Package: A collection of modules under a single name.
