@@ -1,11 +1,9 @@
-# import sys, os
-# fpath = os.path.join(os.path.dirname(__file__), 'lib2')
-# sys.path.append(fpath)
+import sys
+sys.path.append("..")
 
-from d_scripts import lib2
-
-from lib2 import h
+from ..scripts import lib2
 import lib2
+from lib2 import h
 from lib2 import x
 
 if __name__ == "__main__":
